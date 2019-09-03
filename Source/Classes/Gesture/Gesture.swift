@@ -42,7 +42,7 @@ public final class Gesture<Recognizer: UIGestureRecognizer>: NSObject, UIGesture
     
     // MARK: Object variables & properties
     
-    fileprivate var view: UIView?
+    fileprivate weak var view: UIView?
     
     fileprivate var recognizer: Recognizer!
     
