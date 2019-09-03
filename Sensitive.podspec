@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Sensitive"
-  s.version      = "7.0"
+  s.version      = "7.0.1"
   s.summary      = "Fresh look at work with gestures in Swift."
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 This library changes the way how you work with gestures in Swift.
                    DESC
 
-  s.homepage     = "https://github.com/igormatyushkin014/Sensitive"
+  s.homepage     = "https://github.com/jlgl-ios/Sensitive"
   s.screenshots  = "https://github.com/igormatyushkin014/Sensitive/raw/master/Logo/logo-1024-300.png"
 
 
@@ -80,7 +80,7 @@ This library changes the way how you work with gestures in Swift.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/igormatyushkin014/Sensitive.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/jlgl-ios/Sensitive.git", :tag => s.version }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -96,7 +96,7 @@ This library changes the way how you work with gestures in Swift.
 
   # s.public_header_files = "Classes/**/*.h"
 
-  s.swift_version = "4.0"
+  s.swift_version = "5.0"
 
 
   # ――― Resources ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
